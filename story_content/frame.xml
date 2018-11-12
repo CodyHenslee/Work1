@@ -74,7 +74,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1176,6 +1176,12 @@
             <slidelink slideid="_player.6laGIIUHcji.5vVz078Biu7" displaytext="path2" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.6fknC7c5y3B" displaytext="path1" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.5VEEuRaMrF0" displaytext="(15)_Flip_card" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6mpafZI91iq" displaytext="Slide_Name" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6LcRlBj5wBZ" displaytext="question1" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6l1tS9prjNz" displaytext="question2" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6abSZlnhaaG" displaytext="question3" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.5p3laepPOUj" displaytext="question4" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.5xzR16tAL5W" displaytext="question5" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.5ytvsSSHvBz" displaytext="(16)_Vertical_tab" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.5WGxIfl2BJb" displaytext="(14)_Horizontal_tab" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.6gwjTaBFKzv" displaytext="(07)_Image_left_text_right" expand="false" type="slide" />
@@ -1183,6 +1189,26 @@
             <slidelink slideid="_player.6laGIIUHcji.6Bd5TeJT4XF" displaytext="(10)_Slideshow" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.5m1NOBBJO2M" displaytext="(06)_Text_and_tooltips" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.5kFtkAL59Hp" displaytext="(11)_Interactive_map" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6FcG9ToRJ8V" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6SXNgydUr0M" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6THonxPnrnh" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6XbOVXxwfoD" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6VD9718meg0" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6btBuaOcrvu" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6MyUgOFdHl8" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6DEwygRLCuL" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6AfBYbG9qS9" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6IPKZQ5h1lt" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6q2J9IWAta3" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6BMk1xvUaaj" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.5oNYgLGL0Y7" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6peyA05m1yO" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.5xUGL86xZqf" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.5xyqaJbPih2" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.5X8M0UIDUS4" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.5VaDQmqarLB" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.5mu9hVSVfHo" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.6laGIIUHcji.6olu8vNiQy4" displaytext="Hotspot" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.6l6ucb7aSxt" displaytext="(12)_Timeline_or_process_interaction" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.6m632nXn1Xe" displaytext="(13)_Video" expand="false" type="slide" />
             <slidelink slideid="_player.6laGIIUHcji.6hyTxCDGXoj" displaytext="(13b)_Video" expand="false" type="slide" />
